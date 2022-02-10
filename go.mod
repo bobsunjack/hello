@@ -1,3 +1,3 @@
-module github.com/bobsunjack/hello1
+module github.com/bobsunjack/hello
 
 go 1.17
